@@ -1,7 +1,7 @@
 # Cookie Clicker
-Believe it or not, its an actual cookie clicker and nothing else.
-Idk if I will keep updating this
-Play at [my website](https://lukiiy.github.io/cookieclicker/)!
+Believe it or not, its an actual cookie clicker and nothing else.  
+Idk if I will keep updating this  
+Play at [my website](https://lukiiy.github.io/cookieclicker/)!  
 _Hav a cookie!_
 
 ## Updates
